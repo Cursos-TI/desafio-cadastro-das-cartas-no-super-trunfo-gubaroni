@@ -378,5 +378,5 @@ int main() {
     // Super Poder
     printf("Super Poder: Carta 1 vence = %d\n", super_poder1 > super_poder2);
 
-    return 0; // Indica que o programa foi executado com sucesso
+    return 0;
 }
